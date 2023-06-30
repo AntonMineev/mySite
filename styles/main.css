@@ -19,8 +19,8 @@ body, html{
   box-sizing: border-box;
 }
 .main-title-section-par {
-  margin: 0px 
-  padding-bottom: 0px;
+  margin: 0px;
+  padding-bottom: 0px; 
   align-items: justify;
   text-align: justify	;
   letter-spacing: 0,5px;
