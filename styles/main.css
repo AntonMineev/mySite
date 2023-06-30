@@ -19,17 +19,21 @@ body, html{
   box-sizing: border-box;
 }
 .main-title-section-par {
-  padding-bottom: 20px;
+  margin: 0px 
+  padding-bottom: 0px;
   align-items: justify;
   text-align: justify	;
   letter-spacing: 0,5px;
   word-spacing: 5px;
 
-  background-color: #379987 ;
+  background-color: #308575;
 }
 
+.main-title-section-par {
+     margin: 0px;
+     padding-bottom: 8px;
 
-
+}
 
 
 .date {
