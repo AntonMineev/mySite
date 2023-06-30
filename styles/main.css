@@ -21,10 +21,14 @@ body, html{
 .main-title-section-par {
   padding-bottom: 20px;
   align-items: justify;
-text-align: justify	;
+  text-align: justify	;
   letter-spacing: 0,5px;
   word-spacing: 5px;
+
+  background-color: 
 }
+
+
 
 .date {
 text-align: right;
@@ -33,5 +37,5 @@ text-align: right;
 
 
 .main-title-section-one {
- background-color:red  
+ background-color: #aff0d5;  
 }
