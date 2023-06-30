@@ -29,19 +29,32 @@ body, html{
   background-color: #F2EAD3;
 }
 
-.main-title-section-par {
-     margin: 0px;
-     padding-bottom: 8px;
+
+
+.main-title-section {
+   margin: 0px;
+   padding-bottom: 0px;
+   align-items: justify;
+   text-align: justify   ;
+   letter-spacing: 0,5px;
+   word-spacing: 5px;	
+  
+   background-color: #DFD7BF;
 
 }
 
+.main-title-section-one {
+    margin: 0px;
+    padding-bottom: 0px;
+    align-items: justify;
+    text-align: justify   ;
+    letter-spacing: 0,5px;
+    word-spacing: 5px;
+ 
+    background-color: #3F2305;
+}
 
 .date {
 text-align: right;
 }
 
-
-
-.main-title-section-one {
- background-color: #aff0d5;  
-}
