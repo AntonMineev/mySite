@@ -29,11 +29,16 @@ body, html{
   background-color: #F2EAD3;
 }
 
-.main-title-section-par {
-     margin: 0px;
-     padding-bottom: 8px;
+.main-title-section {
+  margim: 0px;
+  padding: 0px;
+} 
+
+..main-title-section-one { 
+  background-color: #3F2305;
 
 }
+
 
 
 .date {
